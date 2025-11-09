@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 I’m a Senior Android Developer building modern, reliable apps with Kotlin, Jetpack, and Compose.  
-8+ years building consumer and enterprise Android solutions using modern architecture (MVVM, Hilt, Coroutines, Room, Retrofit).  
+7+ years building consumer and enterprise Android solutions using modern architecture (MVVM, Hilt, Coroutines, Room, Retrofit).  
 Recently exploring DevSecOps pipelines and CI/CD automation for Android.
 
 ---
