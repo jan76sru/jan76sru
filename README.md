@@ -1,5 +1,5 @@
 # Hi there, I'm Srujan 👋  
-**Android Developer | Kotlin | Jetpack | Compose | CI/CD | DevSecOps**
+**Android Developer | Kotlin | Jetpack | Compose**
 
 📍 Dallas 
 [LinkedIn](https://www.linkedin.com/in/srujan-dev) 
