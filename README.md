@@ -15,8 +15,7 @@ Recently exploring DevSecOps pipelines and CI/CD automation for Android.
 
 ### 🛠️ Tech Toolbox
 **Languages:** Kotlin, Java, Python, YAML  
-**Frameworks:** Jetpack Compose, Hilt, WorkManager, Firebase  
-**DevOps:** GitHub Actions, Gradle, SonarQube, Docker, Azure DevOps  
+**Frameworks:** Jetpack Compose, Hilt, WorkManager, Firebase   
 **Databases:** Room, SQLite, Firebase Firestore  
 **Tools:** Android Studio, Postman, ADB, Fastlane, Jira, Figma
 
